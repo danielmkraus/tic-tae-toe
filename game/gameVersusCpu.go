@@ -1,1 +1,5 @@
 package game
+
+func startGame() {
+
+}
